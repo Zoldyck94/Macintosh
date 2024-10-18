@@ -1,9 +1,9 @@
 {
-    "isEnabled": true,
+    "isEnabled": false,
     "url": "https://google.com/",
-    "moreAppsEnabled": true,
+    "moreAppsEnabled": false,
     "moreAppsUrl": "https://www.ssavr.com/",
-    "rateUsEnabled": true,
+    "rateUsEnabled": false,
     "rateUsUrl": "https://github.com/",
     "buttonText": "CLICK HERE FOR FREE ayoub",
     "moreAppsButtonText": "More Apps",
