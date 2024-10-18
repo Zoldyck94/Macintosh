@@ -41,6 +41,12 @@
   ],
   "hats": [
     {
+      "name": "Thieft",
+      "imageUrl": "https://github.com/Zoldyck94/Macintosh/edit/main/config.json",
+      "isFree": true,
+      "unlockCost": 1
+    },
+    {
       "name": "Captain",
       "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/3/38/Cap-tain.png",
       "isFree": false,
