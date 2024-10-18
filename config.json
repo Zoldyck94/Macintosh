@@ -1,0 +1,111 @@
+{
+  "characters": [
+    {
+      "name": "Character 1",
+      "imageUrl": "https://raw.githubusercontent.com/devangel66/characyers/refs/heads/main/c1.png",
+      "isFree": false,
+      "unlockCost": 50
+    },
+    {
+      "name": "Character 2",
+      "imageUrl": "https://raw.githubusercontent.com/devangel66/characyers/refs/heads/main/c2.png",
+      "isFree": false,
+      "unlockCost": 50
+    },
+    {
+      "name": "Character 3",
+      "imageUrl": "https://raw.githubusercontent.com/devangel66/characyers/refs/heads/main/c4.png",
+      "isFree": false,
+      "unlockCost": 50
+    }
+  ],
+  "skins": [
+    {
+      "name": "Green",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/6/6d/Enforcer_Armor.png",
+      "isFree": false,
+      "unlockCost": 30
+    },
+    {
+      "name": "Fragile",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/d/d8/Fragile.png",
+      "isFree": false,
+      "unlockCost": 30
+    },
+    {
+      "name": "Blemon Lad Skin",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/3/30/Blemon_Lad.png",
+      "isFree": false,
+      "unlockCost": 30
+    }
+  ],
+  "hats": [
+    {
+      "name": "Captain",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/3/38/Cap-tain.png",
+      "isFree": false,
+      "unlockCost": 1
+    },
+    {
+      "name": "Confy Pom",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/6/6b/Comfy_Pom.png",
+      "isFree": false,
+      "unlockCost": 1
+    },
+    
+    {
+      "name": "Ice Cap Polus",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/4/45/Ice_Cap_Polus.png",
+      "isFree": false,
+      "unlockCost": 1
+    },
+    
+     {
+      "name": "Hotel Hat ",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/4/40/Haunted_Hotel_Hat.png",
+      "isFree": false,
+      "unlockCost": 1
+    },
+    
+    {
+      "name": "Officer Hat",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/0/04/Policeman-Officer.png",
+      "isFree": false,
+      "unlockCost": 1
+    },
+    
+     {
+      "name": "Pumpkins",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/2/2a/Punkin.png",
+      "isFree": false,
+      "unlockCost": 1
+    },
+    
+    {
+      "name": "Generally",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/8/83/Generally_Speaking.png",
+      "isFree": false,
+      "unlockCost": 1
+    }
+  ],
+  "pets": [
+    {
+      "name": "Dancing Skeleton",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/a/ad/Pet_DancingSkeletonPet.png",
+      "isFree": false,
+      "unlockCost": 25
+    },
+    {
+      "name": "Chewie",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/d/df/Chewie.png",
+      "isFree": false,
+      "unlockCost": 25
+    },
+    {
+      "name": "Headslug",
+      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/6/60/Headslug_pet.png",
+      "isFree": false,
+      "unlockCost": 25
+    }
+  ]
+}
