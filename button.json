@@ -1,11 +1,11 @@
 {
     "isEnabled": true,
-    "url": "https://example.com",
+    "url": "https://google.com/",
     "moreAppsEnabled": true,
-    "moreAppsUrl": "https://example.com/moreapps",
+    "moreAppsUrl": "https://www.ssavr.com/",
     "rateUsEnabled": true,
-    "rateUsUrl": "https://example.com/rateus",
-    "buttonText": "CLICK HERE FOR FREE SKINS",
+    "rateUsUrl": "https://github.com/",
+    "buttonText": "CLICK HERE FOR FREE ayoub",
     "moreAppsButtonText": "More Apps",
     "rateUsButtonText": "Rate Us"
 }
