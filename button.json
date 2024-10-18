@@ -1,0 +1,11 @@
+{
+    "isEnabled": true,
+    "url": "https://example.com",
+    "moreAppsEnabled": true,
+    "moreAppsUrl": "https://example.com/moreapps",
+    "rateUsEnabled": true,
+    "rateUsUrl": "https://example.com/rateus",
+    "buttonText": "CLICK HERE FOR FREE SKINS",
+    "moreAppsButtonText": "More Apps",
+    "rateUsButtonText": "Rate Us"
+}
