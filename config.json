@@ -252,6 +252,12 @@
       "unlockCost": 25
     },
     {
+      "name": "Stickman",
+      "imageUrl": "https://i.imgur.com/BXLfYMc.png",
+      "isFree": false,
+      "unlockCost": 25
+    },
+    {
       "name": "Chewie",
       "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/d/df/Chewie.png",
       "isFree": false,
