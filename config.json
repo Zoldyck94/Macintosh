@@ -49,7 +49,7 @@
     {
       "name": "TEST",
       "imageUrl": "https://i.imgur.com/nWalQIg.png",
-      "isFree": false,
+      "isFree": true,
       "unlockCost": 1000
     },
     {
