@@ -18,6 +18,11 @@
       "isFree": false,
       "unlockCost": 50
     }
+      "name": "Character 4",
+      "imageUrl": "https://i.imgur.com/oqocFBo.png",
+      "isFree": false,
+      "unlockCost": 50
+    }
   ],
   "skins": [
     {
