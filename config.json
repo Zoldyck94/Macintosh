@@ -47,6 +47,12 @@
       "unlockCost": 1
     },
     {
+      "name": "TEST",
+      "imageUrl": "https://i.imgur.com/nWalQIg.png",
+      "isFree": false,
+      "unlockCost": 1000
+    },
+    {
       "name": "Captain",
       "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/3/38/Cap-tain.png",
       "isFree": false,
