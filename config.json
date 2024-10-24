@@ -1,6 +1,12 @@
 {
   "characters": [
     {
+      "name": "Character 4",
+      "imageUrl": "https://i.imgur.com/oqocFBo.png",
+      "isFree": false,
+      "unlockCost": 50
+    },
+    {
       "name": "Character 1",
       "imageUrl": "https://raw.githubusercontent.com/devangel66/characyers/refs/heads/main/c1.png",
       "isFree": false,
