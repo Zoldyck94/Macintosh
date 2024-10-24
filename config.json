@@ -40,66 +40,517 @@
     }
   ],
   "hats": [
+  {
+    "name": "Zorbell",
+    "imageUrl": "https://i.ibb.co/JQNjGPV/h98.png",
+    "isFree": true,
+    "unlockCost": 1
+  },
+  {
+    "name": "Flubix",
+    "imageUrl": "https://i.ibb.co/KwNh5Dx/h99.png",
+    "isFree": true,
+    "unlockCost": 1
+  },
+  {
+    "name": "Quantar",
+    "imageUrl": "https://i.ibb.co/WBKxKr4/h100.png",
+    "isFree": true,
+    "unlockCost": 1
+  },
+  {
+    "name": "Helixor",
+    "imageUrl": "https://i.ibb.co/C0gRdPV/h101.png",
+    "isFree": true,
+    "unlockCost": 1
+  },
+  {
+    "name": "Vostrum",
+    "imageUrl": "https://i.ibb.co/pvrF3B0/h102.png",
+    "isFree": true,
+    "unlockCost": 1
+  },
+  {
+    "name": "Plimble",
+    "imageUrl": "https://i.ibb.co/0BsnfxH/h103.png",
+    "isFree": true,
+    "unlockCost": 1
+  },
+  {
+    "name": "Xylox",
+    "imageUrl": "https://i.ibb.co/ZWhwMGQ/h104.png",
+    "isFree": true,
+    "unlockCost": 1
+  },
+  {
+    "name": "Zeffrix",
+    "imageUrl": "https://i.ibb.co/t85sZwz/h105.png",
+    "isFree": true,
+    "unlockCost": 1
+  },
+  {
+    "name": "Blorpex",
+    "imageUrl": "https://i.ibb.co/pzXQ1gx/h106.png",
+    "isFree": true,
+    "unlockCost": 1
+  },
+  {
+    "name": "Trivon",
+    "imageUrl": "https://i.ibb.co/FbVgZVv/h107.png",
+    "isFree": true,
+    "unlockCost": 1
+  },
+  {
+    "name": "Glisset",
+    "imageUrl": "https://i.ibb.co/hRb6HYg/h108.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Frozor",
+    "imageUrl": "https://i.ibb.co/RHjvGGf/h109.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Quiblox",
+    "imageUrl": "https://i.ibb.co/0tZgGR4/h110.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Zeltron",
+    "imageUrl": "https://i.ibb.co/z5390FY/h111.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Flickor",
+    "imageUrl": "https://i.ibb.co/hKvVsbM/h112.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Brontix",
+    "imageUrl": "https://i.ibb.co/t2mYVXx/h113.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Crystar",
+    "imageUrl": "https://i.ibb.co/qkZpHsB/h114.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Vortek",
+    "imageUrl": "https://i.ibb.co/0VcVyXW/h115.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Zylith",
+    "imageUrl": "https://i.ibb.co/t8cLv9p/h116.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Flavix",
+    "imageUrl": "https://i.ibb.co/0Qq3gmT/h117.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Spargon",
+    "imageUrl": "https://i.ibb.co/z842fdR/h118.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Plorix",
+    "imageUrl": "https://i.ibb.co/Yy0km6X/h119.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Zoltar",
+    "imageUrl": "https://i.ibb.co/Dfm3qBb/h120.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Vrylox",
+    "imageUrl": "https://i.ibb.co/n8BnkDY/h121.png",
+    "isFree": false,
+    "unlockCost": 25
+  }
     {
-      "name": "Thieft",
-      "imageUrl": "https://i.imgur.com/8OANbxg.png",
-      "isFree": true,
-      "unlockCost": 1
-    },
+    "name": "Nebtor",
+    "imageUrl": "https://i.ibb.co/bbs96wr/h1.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Klaxonis",
+    "imageUrl": "https://i.ibb.co/rcxrfs8/h2.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Driflur",
+    "imageUrl": "https://i.ibb.co/CQzPQ9p/h3.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Solvix",
+    "imageUrl": "https://i.ibb.co/3pNnCQ0/h4.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Quasor",
+    "imageUrl": "https://i.ibb.co/9T6cGcD/h5.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Blintor",
+    "imageUrl": "https://i.ibb.co/TMP2c40/h6.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Xoltron",
+    "imageUrl": "https://i.ibb.co/WvQGCC7/h7.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Frenzor",
+    "imageUrl": "https://i.ibb.co/SQr5wHN/h8.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Vulptor",
+    "imageUrl": "https://i.ibb.co/bP5N2Wg/h9.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Kyberon",
+    "imageUrl": "https://i.ibb.co/Qfh792S/h10.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Fluxar",
+    "imageUrl": "https://i.ibb.co/314k5mY/h11.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Zerbit",
+    "imageUrl": "https://i.ibb.co/rQ3tXpD/h12.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Clotron",
+    "imageUrl": "https://i.ibb.co/128dSby/h13.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Wiflux",
+    "imageUrl": "https://i.ibb.co/5n0jjtX/h14.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Plynor",
+    "imageUrl": "https://i.ibb.co/QnwjWht/h15.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Starnox",
+    "imageUrl": "https://i.ibb.co/qWhLQVx/h16.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Lixor",
+    "imageUrl": "https://i.ibb.co/KKRs5p0/h17.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Fizzix",
+    "imageUrl": "https://i.ibb.co/vVQqYSj/h18.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Vormex",
+    "imageUrl": "https://i.ibb.co/58c8qML/h19.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Cruxor",
+    "imageUrl": "https://i.ibb.co/8gSdTCg/h20.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Blipnar",
+    "imageUrl": "https://i.ibb.co/929FsJN/h21.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Nexor",
+    "imageUrl": "https://i.ibb.co/rFsPDZJ/h22.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Slyrix",
+    "imageUrl": "https://i.ibb.co/BgRTv4y/h23.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Vlynox",
+    "imageUrl": "https://i.ibb.co/v4rWCKq/h24.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Brolar",
+    "imageUrl": "https://i.ibb.co/qdJnHSv/h25.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Triston",
+    "imageUrl": "https://i.ibb.co/56dQCFn/h26.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Flexor",
+    "imageUrl": "https://i.ibb.co/BBPc9dC/h27.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Ziplex",
+    "imageUrl": "https://i.ibb.co/RhgkrW5/h28.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Glomir",
+    "imageUrl": "https://i.ibb.co/6RkvPD6/h29.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Zarnex",
+    "imageUrl": "https://i.ibb.co/5nVJfW1/h30.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Phelix",
+    "imageUrl": "https://i.ibb.co/RHLGVRw/h31.png",
+    "isFree": false,
+    "unlockCost": 25
+  }
     {
-      "name": "TEST",
-      "imageUrl": "https://i.imgur.com/7LFiRmH.png",
-      "isFree": true,
-      "unlockCost": 1000
-    },
-    {
-      "name": "Captain",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/3/38/Cap-tain.png",
-      "isFree": false,
-      "unlockCost": 1
-    },
-    {
-      "name": "Confy Pom",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/6/6b/Comfy_Pom.png",
-      "isFree": false,
-      "unlockCost": 1
-    },
-    
-    {
-      "name": "Ice Cap Polus",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/4/45/Ice_Cap_Polus.png",
-      "isFree": false,
-      "unlockCost": 1
-    },
-    
-     {
-      "name": "Hotel Hat ",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/4/40/Haunted_Hotel_Hat.png",
-      "isFree": false,
-      "unlockCost": 1
-    },
-    
-    {
-      "name": "Officer Hat",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/0/04/Policeman-Officer.png",
-      "isFree": false,
-      "unlockCost": 1
-    },
-    
-     {
-      "name": "Pumpkins",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/2/2a/Punkin.png",
-      "isFree": false,
-      "unlockCost": 1
-    },
-    
-    {
-      "name": "Generally",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/8/83/Generally_Speaking.png",
-      "isFree": false,
-      "unlockCost": 1
-    }
-  ],
+    "name": "Grixon",
+    "imageUrl": "https://i.ibb.co/PMLC9Rq/h32.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Tydor",
+    "imageUrl": "https://i.ibb.co/9TWZBXG/h33.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Volrix",
+    "imageUrl": "https://i.ibb.co/hF1fTNt/h34.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Sylvar",
+    "imageUrl": "https://i.ibb.co/whGPQwS/h35.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Hexnor",
+    "imageUrl": "https://i.ibb.co/mtSRQ0P/h36.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Klarnis",
+    "imageUrl": "https://i.ibb.co/L86YS8G/h37.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Quorlax",
+    "imageUrl": "https://i.ibb.co/S70BjHJ/h38.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Fyntar",
+    "imageUrl": "https://i.ibb.co/p6qS95g/h39.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Velnor",
+    "imageUrl": "https://i.ibb.co/wKDNQ8Q/h40.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Crilax",
+    "imageUrl": "https://i.ibb.co/kgYQMNj/h41.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Thyron",
+    "imageUrl": "https://i.ibb.co/wwvxQwY/h42.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Gorvik",
+    "imageUrl": "https://i.ibb.co/LZ0fznN/h43.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Jynkar",
+    "imageUrl": "https://i.ibb.co/n8wqD56/h44.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Zyphor",
+    "imageUrl": "https://i.ibb.co/wBBBZmP/h45.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Moltran",
+    "imageUrl": "https://i.ibb.co/vs4yT6S/h46.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Ultran",
+    "imageUrl": "https://i.ibb.co/1sctj7D/h47.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Velkron",
+    "imageUrl": "https://i.ibb.co/PCL18nT/h48.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Xynor",
+    "imageUrl": "https://i.ibb.co/Vtqv0pC/h49.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Grixar",
+    "imageUrl": "https://i.ibb.co/BKC38Gb/h50.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Blazor",
+    "imageUrl": "https://i.ibb.co/k5GF101/h51.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Vortex",
+    "imageUrl": "https://i.ibb.co/ChKCtn3/h52.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Zentor",
+    "imageUrl": "https://i.ibb.co/F7csmFh/h53.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Fryxor",
+    "imageUrl": "https://i.ibb.co/nCRL2mj/h54.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Plenox",
+    "imageUrl": "https://i.ibb.co/dmnnKPJ/h55.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Klyon",
+    "imageUrl": "https://i.ibb.co/HBcCSzS/h56.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Rynxar",
+    "imageUrl": "https://i.ibb.co/4Z0H4gv/h57.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Xulfar",
+    "imageUrl": "https://i.ibb.co/wRhbnGq/h58.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Zorvax",
+    "imageUrl": "https://i.ibb.co/gDMz0VN/h59.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Fluxar",
+    "imageUrl": "https://i.ibb.co/dfn4YDf/h60.png",
+    "isFree": false,
+    "unlockCost": 25
+  },
+  {
+    "name": "Yltron",
+    "imageUrl": "https://i.ibb.co/2yqYd6d/h61.png",
+    "isFree": false,
+    "unlockCost": 25
+  }
+],
   "pets": [
     {
       "name": "Dancing Skeleton",
