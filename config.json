@@ -2,27 +2,75 @@
   "characters": [
     {
       "name": "Character 1",
-      "imageUrl": "https://raw.githubusercontent.com/devangel66/characyers/refs/heads/main/c1.png",
-      "isFree": false,
+      "imageUrl": "https://i.ibb.co/vwxBCP2/Characters-1730142542-trimmy-brown.png",
+      "isFree": true,
       "unlockCost": 50
     },
     {
       "name": "Character 2",
-      "imageUrl": "https://raw.githubusercontent.com/devangel66/characyers/refs/heads/main/c2.png",
-      "isFree": false,
+      "imageUrl": "https://i.ibb.co/W507vkk/Characters-1730142542-trimmy-cyan.png",
+      "isFree": true,
       "unlockCost": 50
     },
     {
       "name": "Character 3",
-      "imageUrl": "https://raw.githubusercontent.com/devangel66/characyers/refs/heads/main/c4.png",
-      "isFree": false,
+      "imageUrl": "https://i.ibb.co/XzsCR4L/Characters-1730142542-trimmy-darkgreen.png",
+      "isFree": true,
       "unlockCost": 50
     },
     {
       "name": "Character 4",
-      "imageUrl": "https://i.imgur.com/oqocFBo.png",
+      "imageUrl": "https://i.ibb.co/SXnnYv8/Characters-1730142542-trimmy-green.png",
       "isFree": false,
       "unlockCost": 50
+    },
+    {
+      "name": "Character 5",
+      "imageUrl": "https://i.ibb.co/WPzSJn2/Characters-1730142542-trimmy-icon.png",
+      "isFree": false,
+      "unlockCost": 50
+    },
+    {
+      "name": "Character 6",
+      "imageUrl": "https://i.ibb.co/tcTVNsC/Characters-1730142542-trimmy-pink.png",
+      "isFree": false,
+      "unlockCost": 50
+    },
+    {
+      "name": "Character 7",
+      "imageUrl": "https://i.ibb.co/crG8xXy/Characters-1730142542-trimmy-purple.png",
+      "isFree": false,
+      "unlockCost": 50
+    },
+    {
+      "name": "Character 8",
+      "imageUrl": "https://i.ibb.co/d6vbb1k/Characters-1730142542-trimmy-red.png",
+      "isFree": false,
+      "unlockCost": 50
+    },
+    {
+      "name": "Character 9",
+      "imageUrl": "https://i.ibb.co/pfYXqMz/Characters-1730142542-trimmy-white.png",
+      "isFree": false,
+      "unlockCost": 50
+    },
+    {
+      "name": "Character 10",
+      "imageUrl": "https://i.ibb.co/YyT8y4Z/Characters-1730142543-trimmy-base.png",
+      "isFree": false,
+      "unlockCost": 50
+    },
+    {
+      "name": "Character 11",
+      "imageUrl": "https://i.ibb.co/51fmxds/Characters-1730142543-trimmy-yellow.png",
+      "isFree": false,
+      "unlockCost": 50
+    },
+    {
+      "name": "Character 12",
+      "imageUrl": "https://i.ibb.co/WpsjkbD/Characters-1730142542-trimmy-black.png",
+      "isFree": false,
+      "unlockCost": 35
     }
   ],
   "skins": [
