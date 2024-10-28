@@ -27,248 +27,458 @@
   ],
   "skins": [
     {
-      "name": "Green",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/6/6d/Enforcer_Armor.png",
-      "isFree": false,
+      "name": "Harbinger",
+      "imageUrl": "https://i.ibb.co/jRG6FCP/Image-068-148x99.png",
+      "isFree": true,
       "unlockCost": 30
     },
     {
-      "name": "Fragile",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/d/d8/Fragile.png",
-      "isFree": false,
+      "name": "Corruptor",
+      "imageUrl": "https://i.ibb.co/Fqk61Fy/Image-005-175x130.png",
+      "isFree": true,
       "unlockCost": 30
     },
     {
-      "name": "Blemon Lad Skin",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/3/30/Blemon_Lad.png",
-      "isFree": false,
+      "name": "Annihilator",
+      "imageUrl": "https://i.ibb.co/gZDh4m7/Image-004-228x126.png",
+      "isFree": true,
       "unlockCost": 30
+    },
+    {
+      "name": "Decimator",
+      "imageUrl": "https://i.ibb.co/pPMgnrZ/Image-035-148x129.png",
+      "isFree": true,
+      "unlockCost": 30
+    },
+    {
+      "name": "Corruptor",
+      "imageUrl": "https://i.ibb.co/8bvrHNq/Image-110-162x128.png",
+      "isFree": true,
+      "unlockCost": 30
+    },
+    {
+      "name": "Assimilator",
+      "imageUrl": "https://i.ibb.co/r4Nbnpn/Image-077-169x134.png",
+      "isFree": true,
+      "unlockCost": 30
+    },
+    {
+      "name": "Fury",
+      "imageUrl": "https://i.ibb.co/g4vZLHk/Image-051-150x134.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Desolator",
+      "imageUrl": "https://i.ibb.co/JqYkqpM/Image-107-166x135.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Scourge",
+      "imageUrl": "https://i.ibb.co/VDF1c2C/Image-073-92x191.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Corruptor",
+      "imageUrl": "https://i.ibb.co/m996BGT/Image-039-142x114.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Corruptor",
+      "imageUrl": "https://i.ibb.co/25b4JQn/Image-112-136x118.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Despoiler",
+      "imageUrl": "https://i.ibb.co/tXz5fBs/Image-123-148x117.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Desolator",
+      "imageUrl": "https://i.ibb.co/7j4Cjzt/Image-098-123x120.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Destroyer",
+      "imageUrl": "https://i.ibb.co/hDxL3LW/Image-024-130x113.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Wraith",
+      "imageUrl": "https://i.ibb.co/T1Kpn8z/Image-031-185x77.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Reverb",
+      "imageUrl": "https://i.ibb.co/D7Ks8MK/Image-080-169x133.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Desolator",
+      "imageUrl": "https://i.ibb.co/NtT9cxy/Image-018-164x125.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Onslaught",
+      "imageUrl": "https://i.ibb.co/9VZ96st/Image-105-126x115.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Ravage",
+      "imageUrl": "https://i.ibb.co/QK3QCt9/Image-025-120x110.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Wraith",
+      "imageUrl": "https://i.ibb.co/QpvZzkV/Image-094-158x129.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Vortex",
+      "imageUrl": "https://i.ibb.co/vhphmmr/Image-026-126x130.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Reaper",
+      "imageUrl": "https://i.ibb.co/NSS1fXL/Image-029-169x121.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Juggernaut",
+      "imageUrl": "https://i.ibb.co/0tz1L5G/Image-052-145x117.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Seraph",
+      "imageUrl": "https://i.ibb.co/DMkYWNt/Image-048-160x123.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Umbra",
+      "imageUrl": "https://i.ibb.co/HYmKY2H/Image-115-198x210.png",
+      "isFree": false,
+      "unlockCost": 35
     }
   ],
   "hats": [
     {
-      "name": "Zorbell",
-      "imageUrl": "https://i.ibb.co/JQNjGPV/h98.png",
+      "name": "Flishix",
+      "imageUrl": "https://i.ibb.co/fx0Kh0k/Image-177-181x130.png",
       "isFree": true,
       "unlockCost": 1
     },
     {
-      "name": "Flubix",
-      "imageUrl": "https://i.ibb.co/KwNh5Dx/h99.png",
+      "name": "Klabi",
+      "imageUrl": "https://i.ibb.co/NCMJ65P/Image-030-81x88.png",
       "isFree": true,
       "unlockCost": 1
     },
     {
-      "name": "Quantar",
-      "imageUrl": "https://i.ibb.co/WBKxKr4/h100.png",
+      "name": "Bicker",
+      "imageUrl": "https://i.ibb.co/51J0vz3/Image-280-204x130.png",
       "isFree": true,
       "unlockCost": 1
     },
     {
-      "name": "Helixor",
-      "imageUrl": "https://i.ibb.co/C0gRdPV/h101.png",
+      "name": "Briar",
+      "imageUrl": "https://i.ibb.co/MN5pVkg/Image-087-108x77.png",
       "isFree": true,
       "unlockCost": 1
     },
     {
-      "name": "Vostrum",
-      "imageUrl": "https://i.ibb.co/pvrF3B0/h102.png",
+      "name": "Klab",
+      "imageUrl": "https://i.ibb.co/swP47P4/Image-131-107x95.png",
       "isFree": true,
       "unlockCost": 1
     },
     {
-      "name": "Plimble",
-      "imageUrl": "https://i.ibb.co/0BsnfxH/h103.png",
+      "name": "Beware",
+      "imageUrl": "https://i.ibb.co/qywWZdy/Image-304-141x110.png",
       "isFree": true,
       "unlockCost": 1
     },
     {
-      "name": "Xylox",
-      "imageUrl": "https://i.ibb.co/ZWhwMGQ/h104.png",
-      "isFree": true,
-      "unlockCost": 1
-    },
-    {
-      "name": "Zeffrix",
-      "imageUrl": "https://i.ibb.co/t85sZwz/h105.png",
-      "isFree": true,
-      "unlockCost": 1
-    },
-    {
-      "name": "Blorpex",
-      "imageUrl": "https://i.ibb.co/pzXQ1gx/h106.png",
-      "isFree": true,
-      "unlockCost": 1
-    },
-    {
-      "name": "Trivon",
-      "imageUrl": "https://i.ibb.co/FbVgZVv/h107.png",
-      "isFree": true,
-      "unlockCost": 1
-    },
-    {
-      "name": "Glisset",
-      "imageUrl": "https://i.ibb.co/hRb6HYg/h108.png",
+      "name": "Plox",
+      "imageUrl": "https://i.ibb.co/C0N3rTQ/Image-287-136x113.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Frozor",
-      "imageUrl": "https://i.ibb.co/RHjvGGf/h109.png",
+      "name": "Buckle",
+      "imageUrl": "https://i.ibb.co/dbLB3k7/Image-260-91x92.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Quiblox",
-      "imageUrl": "https://i.ibb.co/0tZgGR4/h110.png",
+      "name": "Actify",
+      "imageUrl": "https://i.ibb.co/bK9XyHy/Image-231-120x76.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Zeltron",
-      "imageUrl": "https://i.ibb.co/z5390FY/h111.png",
+      "name": "Kazzle",
+      "imageUrl": "https://i.ibb.co/ZMghxTQ/Image-134-168x168.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Flickor",
-      "imageUrl": "https://i.ibb.co/hKvVsbM/h112.png",
+      "name": "Zaffle",
+      "imageUrl": "https://i.ibb.co/PNk57g2/Image-015-122x124.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Brontix",
-      "imageUrl": "https://i.ibb.co/t2mYVXx/h113.png",
+      "name": "Splinu",
+      "imageUrl": "https://i.ibb.co/C79kNNW/Image-180-134x141.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Crystar",
-      "imageUrl": "https://i.ibb.co/qkZpHsB/h114.png",
+      "name": "Rattle",
+      "imageUrl": "https://i.ibb.co/tHmCfcD/Image-012-169x104.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Vortek",
-      "imageUrl": "https://i.ibb.co/0VcVyXW/h115.png",
+      "name": "Brownie",
+      "imageUrl": "https://i.ibb.co/vqsvqTg/Image-051-137x65.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Zylith",
-      "imageUrl": "https://i.ibb.co/t8cLv9p/h116.png",
+      "name": "Flibi",
+      "imageUrl": "https://i.ibb.co/5TYs8xp/Image-107-127x132.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Flavix",
-      "imageUrl": "https://i.ibb.co/0Qq3gmT/h117.png",
+      "name": "Breve",
+      "imageUrl": "https://i.ibb.co/bJSPYyC/Image-113-112x128.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Spargon",
-      "imageUrl": "https://i.ibb.co/z842fdR/h118.png",
+      "name": "Pongle",
+      "imageUrl": "https://i.ibb.co/J5QwL5B/Image-118-167x114.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Plorix",
-      "imageUrl": "https://i.ibb.co/Yy0km6X/h119.png",
+      "name": "Benzed",
+      "imageUrl": "https://i.ibb.co/yBPhSGF/Image-046-155x141.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Zoltar",
-      "imageUrl": "https://i.ibb.co/Dfm3qBb/h120.png",
+      "name": "Bolter",
+      "imageUrl": "https://i.ibb.co/ZcqJ6wk/Image-192-123x109.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Vrylox",
-      "imageUrl": "https://i.ibb.co/n8BnkDY/h121.png",
+      "name": "Beehive",
+      "imageUrl": "https://i.ibb.co/YBsjZpM/Image-275-113x76.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Nebtor",
-      "imageUrl": "https://i.ibb.co/bbs96wr/h1.png",
+      "name": "Armlet",
+      "imageUrl": "https://i.ibb.co/pfzqV9j/Image-235-133x172.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Klaxonis",
-      "imageUrl": "https://i.ibb.co/rcxrfs8/h2.png",
+      "name": "Spleen",
+      "imageUrl": "https://i.ibb.co/KbyVSVQ/Image-152-145x194.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Driflur",
-      "imageUrl": "https://i.ibb.co/CQzPQ9p/h3.png",
+      "name": "Pumble",
+      "imageUrl": "https://i.ibb.co/YfgLWqc/Image-102-117x116.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Solvix",
-      "imageUrl": "https://i.ibb.co/3pNnCQ0/h4.png",
+      "name": "Bowery",
+      "imageUrl": "https://i.ibb.co/jrVRTPf/Image-122-112x58.png",
       "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     },
     {
-      "name": "Quasor",
-      "imageUrl": "https://i.ibb.co/9T6cGcD/h5.png",
+      "name": "Poggles",
+      "imageUrl": "https://i.ibb.co/mSJTD4M/Image-100-149x182.png",
       "isFree": false,
-      "unlockCost": 25
-    },
-    {
-      "name": "Blintor",
-      "imageUrl": "https://i.ibb.co/TMP2c40/h6.png",
-      "isFree": false,
-      "unlockCost": 25
-    },
-    {
-      "name": "Xoltron",
-      "imageUrl": "https://i.ibb.co/WvQGCC7/h7.png",
-      "isFree": false,
-      "unlockCost": 25
-    },
-    {
-      "name": "Frenzor",
-      "imageUrl": "https://i.ibb.co/SQr5wHN/h8.png",
-      "isFree": false,
-      "unlockCost": 25
-    },
-    {
-      "name": "Vulptor",
-      "imageUrl": "https://i.ibb.co/bP5N2Wg/h9.png",
-      "isFree": false,
-      "unlockCost": 25
+      "unlockCost": 35
     }
-],
+  ],
   "pets": [
     {
-      "name": "Dancing Skeleton",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/a/ad/Pet_DancingSkeletonPet.png",
-      "isFree": false,
+      "name": "Flibbit",
+      "imageUrl": "https://i.ibb.co/Fg11SLx/Image-040-58x129.png",
+      "isFree": true,
       "unlockCost": 25
     },
     {
-      "name": "Stickman",
-      "imageUrl": "https://i.imgur.com/BXLfYMc.png",
-      "isFree": false,
+      "name": "Quomp",
+      "imageUrl": "https://i.ibb.co/c8Dt8HR/Image-020-94x110.png",
+      "isFree": true,
       "unlockCost": 25
     },
     {
-      "name": "Chewie",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/d/df/Chewie.png",
-      "isFree": false,
+      "name": "Snorgle",
+      "imageUrl": "https://i.ibb.co/yFK42zF/Image-006-158x105.png",
+      "isFree": true,
       "unlockCost": 25
     },
     {
-      "name": "Headslug",
-      "imageUrl": "https://static.wikia.nocookie.net/among-us-wiki/images/6/60/Headslug_pet.png",
-      "isFree": false,
+      "name": "Quoople",
+      "imageUrl": "https://i.ibb.co/fX0FBGm/Image-019-119x119.png",
+      "isFree": true,
       "unlockCost": 25
+    },
+    {
+      "name": "Snibble",
+      "imageUrl": "https://i.ibb.co/0BnT45V/Image-005-96x104.png",
+      "isFree": true,
+      "unlockCost": 25
+    },
+    {
+      "name": "Plibbit",
+      "imageUrl": "https://i.ibb.co/w64y3mw/Image-011-94x141.png",
+      "isFree": true,
+      "unlockCost": 25
+    },
+    {
+      "name": "Quibble",
+      "imageUrl": "https://i.ibb.co/dMbVPY7/Image-010-123x118.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Snibbit",
+      "imageUrl": "https://i.ibb.co/JztGfNr/Image-004-104x80.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Snobble",
+      "imageUrl": "https://i.ibb.co/1TZS5vj/Image-007-138x84.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Flibble",
+      "imageUrl": "https://i.ibb.co/vQsWQ3t/Image-034-106x144.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Quiffle",
+      "imageUrl": "https://i.ibb.co/xLLpVv6/Image-016-104x102.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Zibble",
+      "imageUrl": "https://i.ibb.co/47pK3c7/Image-003-103x110.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Zoop",
+      "imageUrl": "https://i.ibb.co/xf1sNbC/Image-037-138x84.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Flob",
+      "imageUrl": "https://i.ibb.co/SvG75pb/Image-035-158x111.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Plorp",
+      "imageUrl": "https://i.ibb.co/G7RZM33/Image-028-125x82.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Snangle",
+      "imageUrl": "https://i.ibb.co/cDRWXDW/Image-018-111x92.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Quiffle",
+      "imageUrl": "https://i.ibb.co/Kmx8X3Z/Image-029-163x104.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Snoodle",
+      "imageUrl": "https://i.ibb.co/HPTkk4J/Image-014-146x77.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Floop",
+      "imageUrl": "https://i.ibb.co/0qqKwQc/Image-033-90x101.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Zibble",
+      "imageUrl": "https://i.ibb.co/VY8rV6N/Image-015-126x103.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Quunch",
+      "imageUrl": "https://i.ibb.co/HgKjJR5/Image-038-146x85.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Snarf",
+      "imageUrl": "https://i.ibb.co/0qWDHQN/Image-026-91x122.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Zibbit",
+      "imageUrl": "https://i.ibb.co/hZLVwc1/Image-001-78x102.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Blorp",
+      "imageUrl": "https://i.ibb.co/Nj1d3xP/Image-022-112x106.png",
+      "isFree": false,
+      "unlockCost": 35
+    },
+    {
+      "name": "Flurb",
+      "imageUrl": "https://i.ibb.co/zGB3XtT/Image-008-90x110.png",
+      "isFree": false,
+      "unlockCost": 35
     }
   ]
 }
