@@ -1,11 +1,11 @@
 {
-    "isEnabled": false,
-    "url": "https://google.com/",
+    "isEnabled": true,
+    "url": "https://htmlgames.store/AmongUsGenerator/",
     "moreAppsEnabled": false,
     "moreAppsUrl": "https://www.ssavr.com/",
-    "rateUsEnabled": false,
-    "rateUsUrl": "https://github.com/",
-    "buttonText": "CLICK HERE FOR FREE ayoub",
+    "rateUsEnabled": true,
+    "rateUsUrl": "https://apps.apple.com/us/app/skin-maker-for-imposter/id1556946083",
+    "buttonText": "GET FREE SKINS NOW!",
     "moreAppsButtonText": "More Apps",
     "rateUsButtonText": "Rate Us"
 }
