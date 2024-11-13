@@ -821,90 +821,6 @@
    ],
    "hats":[
       {
-         "name":"Crimson Warrior",
-         "imageUrl":"https://i.ibb.co/PNk57g2/Image-015-122x124.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Wild Harvest",
-         "imageUrl":"https://i.ibb.co/C79kNNW/Image-180-134x141.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Archaeologist's Hat",
-         "imageUrl":"https://i.ibb.co/tHmCfcD/Image-012-169x104.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Desert Nomad",
-         "imageUrl":"https://i.ibb.co/vqsvqTg/Image-051-137x65.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Raider's Cap",
-         "imageUrl":"https://i.ibb.co/5TYs8xp/Image-107-127x132.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Explorer's Bandana",
-         "imageUrl":"https://i.ibb.co/bJSPYyC/Image-113-112x128.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Phantom Essence",
-         "imageUrl":"https://i.ibb.co/J5QwL5B/Image-118-167x114.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Twilight Veil",
-         "imageUrl":"https://i.ibb.co/yBPhSGF/Image-046-155x141.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Guardian's Helm",
-         "imageUrl":"https://i.ibb.co/ZcqJ6wk/Image-192-123x109.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Elegant Bowler",
-         "imageUrl":"https://i.ibb.co/YBsjZpM/Image-275-113x76.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Wanderer's Cap",
-         "imageUrl":"https://i.ibb.co/pfzqV9j/Image-235-133x172.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Knight's Crest",
-         "imageUrl":"https://i.ibb.co/KbyVSVQ/Image-152-145x194.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
-         "name":"Mystical Top Hat",
-         "imageUrl":"https://i.ibb.co/YfgLWqc/Image-102-117x116.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-       {
-         "name":"Arctic Explorer",
-         "imageUrl":"https://i.ibb.co/fx0Kh0k/Image-177-181x120.png",
-         "isFree":true,
-         "unlockCost":20
-      },
-      {
          "name":"Dapper Gentleman",
          "imageUrl":"https://i.ibb.co/NCMJ65P/Image-020-81x88.png",
          "isFree":true,
@@ -943,85 +859,85 @@
       {
          "name":"Celestial Crown",
          "imageUrl":"https://i.ibb.co/dbLB3k7/Image-260-91x92.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Daisy Delight",
          "imageUrl":"https://i.ibb.co/bK9XyHy/Image-231-120x76.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Floral Fantasy",
          "imageUrl":"https://i.ibb.co/ZMghxTQ/Image-134-168x168.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Frosty beanie",
          "imageUrl":"https://i.ibb.co/jrVRTPf/Image-122-112x58.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Silver Band",
          "imageUrl":"https://i.ibb.co/mSJTD4M/Image-100-149x182.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Comfy Beanie",
          "imageUrl":"https://i.ibb.co/F821gDw/Image-002-143x115.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Sleek Fedora",
          "imageUrl":"https://i.ibb.co/vJZS3FQ/Image-224-179x127.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Painted Cap",
          "imageUrl":"https://i.ibb.co/pLbTRLc/Image-027-110x72.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Gentleman's Hat",
          "imageUrl":"https://i.ibb.co/0MH5NGt/Image-042-123x111.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Sweet Summer",
          "imageUrl":"https://i.ibb.co/m8YWNfp/Image-151-70x71.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Butterfly Cap",
          "imageUrl":"https://i.ibb.co/yP8jkJ2/Image-052-125x84.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Rugged Survivor",
          "imageUrl":"https://i.ibb.co/9yvGgbb/Image-206-141x136.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Champion's Cap",
          "imageUrl":"https://i.ibb.co/kXy7cBJ/Image-202-156x48.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
          "name":"Bamboo Raffia",
          "imageUrl":"https://i.ibb.co/StKmXym/Image-089-160x161.png",
-         "isFree":false,
+         "isFree":true,
          "unlockCost":20
       },
       {
@@ -1183,6 +1099,90 @@
       {
          "name":"Pirate's Hat",
          "imageUrl":"https://i.ibb.co/z8GqGRQ/Image-264-146x140.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+       {
+         "name":"Crimson Warrior",
+         "imageUrl":"https://i.ibb.co/PNk57g2/Image-015-122x124.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Wild Harvest",
+         "imageUrl":"https://i.ibb.co/C79kNNW/Image-180-134x141.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Archaeologist's Hat",
+         "imageUrl":"https://i.ibb.co/tHmCfcD/Image-012-169x104.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Desert Nomad",
+         "imageUrl":"https://i.ibb.co/vqsvqTg/Image-051-137x65.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Raider's Cap",
+         "imageUrl":"https://i.ibb.co/5TYs8xp/Image-107-127x132.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Explorer's Bandana",
+         "imageUrl":"https://i.ibb.co/bJSPYyC/Image-113-112x128.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Phantom Essence",
+         "imageUrl":"https://i.ibb.co/J5QwL5B/Image-118-167x114.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Twilight Veil",
+         "imageUrl":"https://i.ibb.co/yBPhSGF/Image-046-155x141.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Guardian's Helm",
+         "imageUrl":"https://i.ibb.co/ZcqJ6wk/Image-192-123x109.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Elegant Bowler",
+         "imageUrl":"https://i.ibb.co/YBsjZpM/Image-275-113x76.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Wanderer's Cap",
+         "imageUrl":"https://i.ibb.co/pfzqV9j/Image-235-133x172.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Knight's Crest",
+         "imageUrl":"https://i.ibb.co/KbyVSVQ/Image-152-145x194.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+      {
+         "name":"Mystical Top Hat",
+         "imageUrl":"https://i.ibb.co/YfgLWqc/Image-102-117x116.png",
+         "isFree":false,
+         "unlockCost":20
+      },
+       {
+         "name":"Arctic Explorer",
+         "imageUrl":"https://i.ibb.co/fx0Kh0k/Image-177-181x120.png",
          "isFree":false,
          "unlockCost":20
       },
